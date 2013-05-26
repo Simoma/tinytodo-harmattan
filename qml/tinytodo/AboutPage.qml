@@ -47,6 +47,11 @@ Page {
             }
             Label {
                 anchors.horizontalCenter: column.horizontalCenter
+                text: "Version 0.0.1"
+                font:  UiConstants.BodyTextFont
+            }
+            Label {
+                anchors.horizontalCenter: column.horizontalCenter
                 text: "Copyright 2013 Simo Mattila"
                 font:  UiConstants.BodyTextFont
             }

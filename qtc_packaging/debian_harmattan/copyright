@@ -1,23 +1,21 @@
-This package was debianized by unknown <> on
+This package was debianized by Simo Mattila <simo.h.mattila@gmail.com> on
 Sun, 26 May 2013 11:03:46 +0000.
 
-It was downloaded from <url://example.com>
+It was downloaded from https://github.com/Simoma/tinytodo-harmattan
 
 Upstream Author(s):
 
-    <put author's name and email here>
-    <likewise for another author>
+    Simo Mattila <simo.h.mattila@gmail.com>
 
 Copyright:
 
-    <Copyright (C) YYYY Name OfAuthor>
-    <likewise for another author>
+    Copyright (C) 2013 Simo Mattila
 
 License:
 
     This package is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
-    the Free Software Foundation; either version 2 of the License, or
+    the Free Software Foundation; either version 3 of the License, or
     (at your option) any later version.
 
     This package is distributed in the hope that it will be useful,
@@ -32,7 +30,7 @@ License:
 On Debian systems, the complete text of the GNU General
 Public License can be found in `/usr/share/common-licenses/GPL'.
 
-The Debian packaging is (C) 2013, unknown <> and
+The Debian packaging is (C) 2013, Simo Mattila <simo.h.mattila@gmail.com> and
 is licensed under the GPL, see above.
 
 
