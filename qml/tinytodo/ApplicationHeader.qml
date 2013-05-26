@@ -23,7 +23,7 @@ import QtQuick 1.1
 Rectangle {
     property alias title: title.text
 
-    color: "#0099FF"
+    color: "#1e87df"
     id: header
     height: UiConstants.HeaderDefaultHeightPortrait
     anchors.top: parent.top
